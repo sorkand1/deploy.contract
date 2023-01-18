@@ -37,7 +37,9 @@ contract R1M{
 And press <b>CONTROL+S</b> to preserve 
 
 Click on <b>SOLIDITY COMPILER</b>change COMPILE version for 0.8.0 and press <b>compile r1m.sol</b>
-Click on <b>DEPLOY & RUN TRANSACTIONS</b>change ENVIRONMENT for <b>Injected provider Metamask</b>change chain in metamask for <b>Taiko A1</b>and press <b>Deploy</b> 
+
+Click on <b>DEPLOY & RUN TRANSACTIONS</b>change ENVIRONMENT for <b>Injected provider Metamask</b>change chain in metamask for <b>Taiko A1</b>and press <b>Deploy</b>
+ 
 Click on <b>DEPLOYED CONTRACTS</b>click on <b>Donate</b> signing the transaction and click on <b>MoneyBack</b> signing the transaction 
 
 You can check transactions in the Metamask wallet or in the [Explorer](https://l2explorer.a1.taiko.xyz/)
