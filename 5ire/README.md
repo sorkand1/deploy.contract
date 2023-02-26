@@ -1,4 +1,4 @@
-<b>creating a smart contract (Native chain)</b>
+<H1>creating a smart contract (Native chain)</H1>
 
 <b>Step 1</b> : Download the wallet[here](https://explorer.5ire.network/) turn on Developer Mode in you browser, and setup wallet
 
@@ -118,8 +118,8 @@ contract ERC20 is IERC20 {
 
 And press <b>CONTROL+S</b> to preserve 
 
-Click on <b>SOLIDITY COMPILER</b>change COMPILE version for 0.8.18 and press <b>compile r1m.sol</b>
+Click on <b>SOLIDITY COMPILER</b> change COMPILE version for 0.8.18 and press<b> compile r1m.sol</b>
 
-Click on <b>DEPLOY & RUN TRANSACTIONS</b>change ENVIRONMENT for <b>Injected provider Metamask</b>change chain in metamask for <b>5ire</b>and press <b>Deploy</b>
+Click on <b>DEPLOY & RUN TRANSACTIONS</b> change ENVIRONMENT for<b> Injected provider Metamask</b>change chain in metamask for<b> 5ire</b> and press<b> Deploy</b>
 
 You can check transactions in the Metamask wallet 
