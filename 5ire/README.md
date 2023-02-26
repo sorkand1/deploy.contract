@@ -31,7 +31,7 @@ npm i
 ```
 node deploy.js
 ```
-<H1>Creating a smart contract (EVM)<H1>
+<H1>Creating a smart contract (EVM)</H1>
 
 <b>Step 1</b> : Import you Ethereum private key in metamask
 
